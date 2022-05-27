@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85b85ba3-e417-43d8-85a9-b0c3f8d2a236" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lp2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask01/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask02/Cotacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask03/Ordenacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask04/Leia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask05/Modulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask06/Multiplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask07/Fatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask08/Tabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask09/Salario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask10/Numeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask11/Secretaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask12/Numero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask13/Monge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask15/Numeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask16/Agencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask17/Vetores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask18/Sorteio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask19/Frase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask20/Frases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask21/Vetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask22/Reajuste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ask23/Hipotenusa.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="29ZoCjcqAAxqWjwrypP7iESDFsi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Secretaria">
+    <configuration name="Leia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ask04.Leia" />
+      <module name="Lp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ask04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multiplicacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ask06.Multiplicacao" />
+      <module name="Lp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ask06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Numeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ask10.Numeros" />
+      <module name="Lp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ask10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ordenacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ask03.Ordenacao" />
+      <module name="Lp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ask03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Secretaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ask11.Secretaria" />
+      <module name="Lp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ask11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Secretaria" />
+        <item itemvalue="Application.Numeros" />
+        <item itemvalue="Application.Multiplicacao" />
+        <item itemvalue="Application.Leia" />
+        <item itemvalue="Application.Ordenacao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85b85ba3-e417-43d8-85a9-b0c3f8d2a236" name="Changes" comment="" />
+      <created>1653329858048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653329858048</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
