@@ -23,5 +23,4 @@ public class Sorteio {
                 System.out.println("O numero é maior.");
             }
         }
-}
-
+}}

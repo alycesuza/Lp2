@@ -6,7 +6,7 @@ public class Multiplicacao {
         Scanner entrada = new Scanner(System.in);
         int[] valores = new int[3];
 
-        System.out.print("Verificador de variaveis\n\n"); //seria melhor fazer com matrizes
+        System.out.print("Verificador de variaveis\n\n");
 
         for (int x= 0; x < 3; x++) {
             System.out.print("Digite o valor "+(x+1)+": ");

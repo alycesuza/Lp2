@@ -19,7 +19,7 @@ public class Reajuste {
 
         int diferencas = segundo_charactere - primeiro_charactere - 1 ;
         if(primeiro_charactere>=0&&segundo_charactere>=0&&diferencas>=0){
-            System.out.println("O numero de caracteres entre eles é: "+diferencas);
+            System.out.println("O numero de caracteres entre eles: "+diferencas);
         }else{
             System.out.println("Erro!");
         }
