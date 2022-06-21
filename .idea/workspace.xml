@@ -5,48 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85b85ba3-e417-43d8-85a9-b0c3f8d2a236" name="Changes" comment="Atualização-da-tarefa">
-      <change afterPath="$PROJECT_DIR$/src/alunosedescrição" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask14/MatrizQuadrada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask23/Salario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask24/Hipotenusa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask24/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask25/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask25/Matriz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask26/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask26/MatrizQuadrada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask27/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask27/Matriz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask28/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask28/Matriz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask29/Binario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask29/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask30/ArrayInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask30/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask31/Caneta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask31/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask32/Lampada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask32/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask32/Tipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask33/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask33/InvalidMethodException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask33/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask34/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask34/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask34/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask34/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask35/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask36/AutomovelAVenda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask36/InterfaceVeiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask36/MotocicletaAVenda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask36/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ask36/VeiculoAVenda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ask06/Multiplicacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ask06/Multiplicacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ask13/Monge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ask13/Monge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ask18/Sorteio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ask18/Sorteio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ask22/Reajuste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ask22/Reajuste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ask23/Hipotenusa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/alunosedescrição" beforeDir="false" afterPath="$PROJECT_DIR$/src/alunosedescrição" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,81 +70,25 @@
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Reajuste">
-    <configuration name="Frases" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ask20.Frases" />
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ask24.Main" />
       <module name="Lp2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ask20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Monge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ask13.Monge" />
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ask24.Main" />
       <module name="Lp2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ask13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiplicacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ask06.Multiplicacao" />
-      <module name="Lp2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ask06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Reajuste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ask22.Reajuste" />
-      <module name="Lp2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ask22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sorteio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ask18.Sorteio" />
-      <module name="Lp2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ask18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Reajuste" />
-        <item itemvalue="Application.Frases" />
-        <item itemvalue="Application.Monge" />
-        <item itemvalue="Application.Multiplicacao" />
-        <item itemvalue="Application.Sorteio" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -209,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653654695570</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Atualização-da-tarefa">
+      <created>1655769179597</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655769179597</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +136,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="versaoinicial" />
-    <option name="LAST_COMMIT_MESSAGE" value="versaoinicial" />
+    <MESSAGE value="Atualização-da-tarefa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização-da-tarefa" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lp2$Reajuste.ic" NAME="Reajuste Coverage Results" MODIFIED="1655769288184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ask22.*</FILTER>
+    </SUITE>
   </component>
 </project>
